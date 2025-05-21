@@ -1,16 +1,24 @@
-# first_flutter_project
+# Quote App using Flutter
 
-A new Flutter project.
+A clean and minimal Flutter app that displays a motivational quote every day.
 
-## Getting Started
+Designed with focus on elegant UI and smooth user experience using only basic Flutter components like `MaterialApp`, `Scaffold`, and `Text`.
 
-This project is a starting point for a Flutter application.
+## ✨ Features
 
-A few resources to get you started if this is your first Flutter project:
+- Displays a new inspirational quote each day based on the current date.
+- Minimal and beautiful design using Material styling.
+- Easily extendable to add favorites, notifications, or categories.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 🚀 Getting Started
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+To run this project:
+
+1. Clone the repository.
+2. Run `flutter pub get` to install dependencies.
+3. Launch using `flutter run`.
+
+## 📚 Resources
+
+- [Flutter Docs](https://docs.flutter.dev/)
+- [Dart Packages](https://pub.dev/)
